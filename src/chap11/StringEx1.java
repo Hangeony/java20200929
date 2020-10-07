@@ -51,7 +51,7 @@ public class StringEx1 {
 	    sub = str11.substring(6);                // int 단일 
 	    System.out.println(sub);
 	    
-	    //trim                    공백 제거 메소드
+	    //trim                         //공백 제거 메소드 
 	    String str12 = " java ";
 	    String t =str12.trim();
 	    System.out.println(str12);
