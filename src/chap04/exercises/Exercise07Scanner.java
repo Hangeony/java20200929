@@ -13,8 +13,8 @@ public class Exercise07Scanner {
 		System.out.println(line);
 		
 		
-		int num = Integer.valueOf(line); //string 을 int 로 바꾼다.
-		int i = num *2;       //숫자로 사용하고싶을때
+		int num = Integer.valueOf(line); //string 을 int로 바꾼다.
+		int i = num *2;                  //숫자로 사용하고싶을때
 		System.out.println(i);
 	}
 
