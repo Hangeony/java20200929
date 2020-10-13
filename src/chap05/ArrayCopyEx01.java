@@ -8,8 +8,8 @@ public class ArrayCopyEx01 {
 		
 //		arr2[0] =arr1[0];               
 //		arr2[1] =arr1[1];
-//		arr2[2] =arr1[2];               값만 복사되니 주의
-//		                                배열 복사하는 법 ,  간결하게 쓰는법 ↓ 
+//		arr2[2] =arr1[2];             값만 복사되니 주의
+//		                              배열 복사하는 법 ,  간결하게 쓰는법 ↓ 
 		for(int i = 0; i < arr1.length; i++) {
 			arr2[i] =arr1[i];
 		}
