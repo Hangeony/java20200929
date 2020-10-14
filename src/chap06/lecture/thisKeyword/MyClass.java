@@ -1,4 +1,4 @@
-package chap06.thisKeyword;
+package chap06.lecture.thisKeyword;
 
 public class MyClass {
 	int var;

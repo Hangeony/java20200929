@@ -1,4 +1,4 @@
-package chap06.method;
+package chap06.lecture.method;
 
 public class MyApp {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap06.method.overloding;
+package chap06.lecture.method.overloding;
 
 public class MyApp {
 	public static void main(String[] args) {
