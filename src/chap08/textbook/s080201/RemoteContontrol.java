@@ -1,7 +1,7 @@
 package chap08.textbook.s080201;
 
 public interface RemoteContontrol {
-	int MAX_AOLUME = 10; //(public static final) 생략 가능
+	int MAX_VOLUME = 10; //(public static final) 생략 가능
 	int MIN_VOLUME = 0;
 	
 	void turnOn();  // public abstract 생략 가능하다.

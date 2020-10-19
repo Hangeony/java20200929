@@ -12,8 +12,8 @@ public class Audio implements RemoteContontrol{
 		System.out.println("Audio를 끕니다.");
 	}
 	public void setVolume(int volume) {
-		if(volume>RemoteContontrol.MAX_AOLUME) {
-			this.volume = RemoteContontrol.MAX_AOLUME;
+		if(volume>RemoteContontrol.MAX_VOLUME) {
+			this.volume = RemoteContontrol.MAX_VOLUME;
 		}
 		else if (volume<RemoteContontrol.MIN_VOLUME) {
 			this.volume =RemoteContontrol.MIN_VOLUME;
