@@ -1,4 +1,4 @@
-package chap11.wrapper;
+package chap11.lecture.wrapper;
 
 public class WrapperEx1 {
 	public static void main(String[] args) {

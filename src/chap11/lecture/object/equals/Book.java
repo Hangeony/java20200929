@@ -1,4 +1,4 @@
-package chap11.object.equals;
+package chap11.lecture.object.equals;
 
 public class Book {
 	private int barCode;

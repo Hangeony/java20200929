@@ -1,4 +1,4 @@
-package chap11.string;
+package chap11.lecture.string;
 
 public class StringReplaceExample {
 	public static void main(String[] args) {

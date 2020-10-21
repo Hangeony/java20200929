@@ -1,4 +1,4 @@
-package chap11.object.hashcode;
+package chap11.lecture.object.hashcode;
 
 public class HashCodeEx1 {
 	public static void main(String[] args) {

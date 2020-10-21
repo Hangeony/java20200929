@@ -1,4 +1,4 @@
-package chap11.object.toString;
+package chap11.lecture.object.toString;
 
 public class MyClass{
 	private int age;

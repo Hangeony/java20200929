@@ -1,4 +1,4 @@
-package chap11.string;
+package chap11.lecture.string;
 
 public class StringEx1 {
 	public static void main(String[] args) {
