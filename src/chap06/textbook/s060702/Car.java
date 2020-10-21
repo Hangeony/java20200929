@@ -1,0 +1,10 @@
+package chap06.textbook.s060702;
+
+public class Car {
+Car() {
+		
+	}
+	Car(String color, int cc) {
+		
+	}
+}
