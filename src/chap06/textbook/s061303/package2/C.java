@@ -1,6 +1,6 @@
 package chap06.textbook.s061303.package2;
 
-import chap06.textbook.s060621.A;
+import chap06.textbook.s061303.package1.A;
 
 public class C {
 	public C() {
