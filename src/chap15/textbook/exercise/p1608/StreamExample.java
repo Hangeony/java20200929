@@ -41,13 +41,13 @@ public class StreamExample {
 			String job = member.getJob();
 			
 			List<String>names =groupingMap.get(job);
-			if(names == null) {
-				List<String> newList = new ArrayList<>();
-				newList.add(name);
-				groupingMap.put(job, newList);
-			}
+			if(names == null) {                            //groupingMap < 여기에 List<string> 새로운값을 저장    
+				List<String> newList = new ArrayList<>(); //초기에 값이 저장되는 값이 없으니 if문이 실행
+				newList.add(name);                        //이름을 추가시킴
+				groupingMap.put(job, newList);            // 값이 저장된 직업 이름이 추가
+			}                                            
 			else {
-				names.add(name);
+				names.add(name);                          //값이 저장되었으니 else로 나와서 name값이 추가
 			}
 		}
 		
