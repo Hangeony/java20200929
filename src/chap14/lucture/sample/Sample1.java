@@ -19,3 +19,4 @@ public class Sample1 {
 
 }
 //담아써도 되지만 생략해두 된다
+//forEach는 for문을 안써도 간결하게 쓸 수 있다 .
